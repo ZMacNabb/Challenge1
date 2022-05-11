@@ -1,16 +1,7 @@
-# exercise1
+# Challenge1
 
-A new Flutter project.
+How to run: Run code then enter the blanks, then click on calculate.
 
-## Getting Started
+Github link: https://github.com/ZMacNabb
+Screenshot: ![image](https://user-images.githubusercontent.com/105223785/167947705-2dea8d1f-b65d-428b-8cff-2f06db512fcb.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
